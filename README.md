@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Les Stats GitHub de ThibaudP](https://github-readme-stats.vercel.app/api?username=ThibaudP&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThibaudP&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
