@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThibaudP&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=ThibaudP)](https://medium.com/@thibaudponcin)
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=thibaudponcin)](https://medium.com/@thibaudponcin)
 
 
 <!--
