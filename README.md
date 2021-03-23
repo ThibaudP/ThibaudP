@@ -1,7 +1,7 @@
 ## <div align="center">Hi there 👋 I'm Thibaud, a software engineering student at Holberton School FR !</div>
 
-<div align="center"><img height="170" width="400" src="https://github-readme-stats.vercel.app/api?username=ThibaudP&theme=dark&show_icons=true&hide=stars,prs,issues"></div>
-<div align="center"><img height="170" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThibaudP&layout=compact&theme=dark"></div>
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=ThibaudP&theme=dark&show_icons=true&hide=stars,prs,issues"></div>
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThibaudP&layout=compact&theme=dark"></div>
 
 ## <div align="center">Social</div>
 
