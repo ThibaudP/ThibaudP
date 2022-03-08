@@ -1,4 +1,4 @@
-## <div align="center">Hi there 👋 I'm Thibaud, a software engineering student at Holberton School FR !</div>
+## <div align="center">Hi there 👋 I'm Thibaud, a junior full-stack software engineering that got scammed by Holberton School FR !</div>
 
 <div align="center"><img height="150" src="https://github-readme-stats.vercel.app/api?username=ThibaudP&theme=dark&show_icons=true&hide=stars,prs,issues"></div>
 <div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThibaudP&layout=compact&theme=dark&langs_count=6"></div>
