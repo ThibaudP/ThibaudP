@@ -1,4 +1,4 @@
-## <div align="center">Hi there 👋 I'm Thibaud, a junior full-stack software engineering!*</div>
+## <div align="center">Hi there 👋 I'm Thibaud, a junior full-stack software engineer!*</div>
 <p>*that got scammed by Holberton School Fr</p>
 
 <!-- <div align="center"><img height="150" src="https://github-readme-stats.vercel.app/api?username=ThibaudP&theme=dark&show_icons=true&hide=stars,prs,issues"></div> -->
