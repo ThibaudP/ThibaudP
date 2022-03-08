@@ -5,9 +5,10 @@
 
 ## <div align="center">Social</div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/ThibaudP" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>&nbsp;
   <a href="https://medium.com/@thibaudponcin/" target="_blank"><img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/thibaudponcin/" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>&nbsp;
   <a href="https://twitter.com/ThibaudPoncin"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/></a>
 </div>
+ -->
