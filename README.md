@@ -1,5 +1,4 @@
 ## <div align="center">Hi there 👋 I'm Thibaud, a junior full-stack software engineer!</div>
-<p>Considering enrolling at Holberton School? Hit me up and I'll tell you about why it's a terrible idea</p>
 
 <!-- <div align="center"><img height="150" src="https://github-readme-stats.vercel.app/api?username=ThibaudP&theme=dark&show_icons=true&hide=stars,prs,issues"></div> -->
 <!-- <div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThibaudP&layout=compact&theme=dark&langs_count=6"></div> -->
